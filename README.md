@@ -9,28 +9,25 @@
 
 ## 🌟 Key Features
 
-### android
 
-* **No playstore required:** Use chatgpt without gapps.
+* **TimeLog:** Manage your time by mapping time to your specific work.
 * **Lightweight:** Lesser in size, takes less space.
-* **Voice mode:** Voice mode like native mobile apk.
-* **Action menu:** Action menu enabled, select and go..
-* **Download image :** download image by holding it.
+* **Goals:** Manage your goals by adding it in goal page, Specific to date.
+* **Task:** Manage your daily actions like getting something done today.
+* **Clean UI:** Clean and minimalistic ui.
+* **CrossPlatform:** support for mobile, web, desktop.
+* **Pomodoro:** Yeah it was included, count it each time. It is real productive stuff.
+* **No Ads:** Never, No ads for this applications, no distractions..
+* **OSS:** it always been .
+
 
 
 ## 🌟 Upcoming Features
 
-* **Offline support :** Offline support chat retrival.
-* **Voice activation on android(coming soon), :**  Voice activation on android(coming soon).
-* **Support for macos x86 :** Support for macos x86(coming soon).
-* **Support for windows:** Support for windows (coming soon).
-* **Support for windows (coming soon) :** Support for windows (coming soon).
-
-
-
-
-![ON DROID](assets/scr.jpeg)
-![ON DROID](assets/scr1.jpeg)
+* **Widget :** Yeah planning to implement for all platform, atleast for android, mac..
+* **Import and export :**  import and export your data for all platform.
+* **Stats :** Stat will be produced by calculating how consistent you are.
+* **Other Features will be added as timegoes :** Support for windows (coming soon).
 
 
 
@@ -38,9 +35,8 @@
 ## 🎯 Usage
 
 1. **Download from releases** on your device.
-2. **Install** Install apk on your devices.
-3. **Sign in** if you want (optional).
-4. **Start Chating**.
+2. **Install** Install on your devices.
+4. **Start your Dare**.
 
 ---
 
@@ -48,11 +44,6 @@
 
 Contributions are welcome! To propose a feature or fix an issue:
 
-1. Fork the repository.
-2. Create a new branch: 
-3. Commit your changes: 
-4. Push to the branch: 
-5. Open a pull request.
 
 
 
