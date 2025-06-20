@@ -1,5 +1,5 @@
 
-![DOIT](lib/core/img/icon.png)
+![DOIT](https://github.com/0x53656E7468696C/DOIT/blob/main/lib/core/ui/img/icon.png)
 # ![                                              DOIT]()
 
 ## ![                  Make your life accountable by doing it]()
