@@ -1,6 +1,6 @@
-# ![ DOIT]()
+# ![                                              DOIT]()
 
-                             ## Make your life accountable by doing it
+## ![                  Make your life accountable by doing it]()
 
 ![GPTSurf](https://github.com/0x53656E7468696C/gpt_surf/blob/main/lib/core/img/ico.png)
 
